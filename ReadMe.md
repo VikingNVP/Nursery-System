@@ -239,10 +239,10 @@ LEFT JOIN home_animals ha ON ha.Id = hm.Genus_id;
 
 # Пример заполненной таблицы для теста:
 ## Лист "Pets"
-![](ScreenShotesLinux\One.jpg)
+![One](ScreenShotesLinux\One.jpg)
 
 ## Лист "PackAnimals"
-![](ScreenShotesLinux\Two.jpg)
+![Two](ScreenShotesLinux\Two.jpg)
 
 
 
